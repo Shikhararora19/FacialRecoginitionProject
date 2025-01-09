@@ -12,10 +12,8 @@ Welcome to the **Facial Recognition Project**! 🚀 This repository is designed 
 4. [📦 Installation](#-installation)
 5. [🚀 Usage](#-usage)
 6. [🧪 Technologies Used](#-technologies-used)
-7. [🛠 Tech Stack](#-tech-stack)
-8. [💡 Future Improvements](#-future-improvements)
-9. [🤝 Contribution Guidelines](#-contribution-guidelines)
-10. [📜 License](#-license)
+7. [💡 Future Improvements](#-future-improvements)
+8. [📜 License](#-license)
 
 ---
 
