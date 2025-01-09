@@ -1,6 +1,6 @@
 # 🌟 Facial Recognition Project
 
-Welcome to the **Facial Recognition Project**! 🚀 This repository is designed to showcase a cutting-edge implementation of facial recognition using modern technologies and techniques. Dive in to explore the wonders of face detection, recognition, and analysis! 🌈
+Welcome to the **Facial Recognition Project**! 🚀 This repository is designed to showcase a cutting-edge implementation of facial recognition using modern technologies and techniques. Dive in to explore the wonders of face detection, recognition, and analysis!
 
 ---
 
